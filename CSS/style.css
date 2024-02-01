@@ -1,0 +1,14 @@
+.contenedor{
+    width: 500px;
+    margin: auto;
+}
+.contenedor img{
+    width: 100%;
+    filter:opacity(0.3);
+    -webkit-filter:opacity(0.3);
+}
+
+#chrome{
+    filter: drop-shadow(10px 5px 5px rgba(0, 0, 0, 0.61));
+    -webkit-filter: drop-shadow(10px 5px 5px rgba(0, 0, 0, 0.61));
+}
